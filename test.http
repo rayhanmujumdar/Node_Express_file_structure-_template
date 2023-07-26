@@ -1,0 +1,3 @@
+// use REST client extensions
+// check all route in this .http file
+GET http://localhost:3000/health
