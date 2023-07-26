@@ -36,7 +36,9 @@ if all property use to same middleware then use = app.use( middlware array )
 - MORGAN
 - express.json()
 - response-time
-- express.router()
+- router
+- notFoundError
+- errorHandler
 
 ## How to get an express template?
 
